@@ -1,2 +1,2 @@
 # eudat-b2find-skos
-SKOS vocabulary for Academic disciplines in English
+SKOS / RDFS vocabulary for Academic disciplines in English
