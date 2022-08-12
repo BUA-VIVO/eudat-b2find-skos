@@ -1,0 +1,2342 @@
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.1.1> a skos:Concept ;
+    rdfs:label "Prehistory"@en ;
+    skos:altLabel "1.1.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.1> ;
+    skos:prefLabel "Prehistory"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.1.2> a skos:Concept ;
+    rdfs:label "Classical Philology"@en ;
+    skos:altLabel "1.1.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.1> ;
+    skos:prefLabel "Classical Philology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.1.3> a skos:Concept ;
+    rdfs:label "Ancient History"@en ;
+    skos:altLabel "1.1.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.1> ;
+    skos:prefLabel "Ancient History"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.1.4> a skos:Concept ;
+    rdfs:label "Classical Archaeology"@en ;
+    skos:altLabel "1.1.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.1> ;
+    skos:prefLabel "Classical Archaeology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.1.5> a skos:Concept ;
+    rdfs:label "Archaeology"@en ;
+    skos:altLabel "1.1.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.1> ;
+    skos:prefLabel "Archaeology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.1.6> a skos:Concept ;
+    rdfs:label "Egyptology and Ancient Near Eastern Studies"@en ;
+    skos:altLabel "1.1.6" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.1> ;
+    skos:prefLabel "Egyptology and Ancient Near Eastern Studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.2.1> a skos:Concept ;
+    rdfs:label "Medieval History"@en ;
+    skos:altLabel "1.2.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.2> ;
+    skos:prefLabel "Medieval History"@en .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.2.2> a skos:Concept ;
+    rdfs:label "Early Modern History"@en ;
+    skos:altLabel "1.2.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.2> ;
+    skos:prefLabel "Early Modern History"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.2.3> a skos:Concept ;
+    rdfs:label "Modern and Current History"@en ;
+    skos:altLabel "1.2.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.2> ;
+    skos:prefLabel "Modern and Current History"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.2.4> a skos:Concept ;
+    rdfs:label "History of Science"@en ;
+    skos:altLabel "1.2.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.2> ;
+    skos:prefLabel "History of Science"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.2.5> a skos:Concept ;
+    rdfs:label "History of Political Thought"@en ;
+    skos:altLabel "1.2.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.2> ;
+    skos:prefLabel "History of Political Thought"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.3.1> a skos:Concept ;
+    rdfs:label "Art History"@en ;
+    skos:altLabel "1.3.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.3> ;
+    skos:prefLabel "Art History"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.3.2> a skos:Concept ;
+    rdfs:label "Fine Arts"@en ;
+    skos:altLabel "1.3.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.3> ;
+    skos:prefLabel "Fine Arts"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.3.3> a skos:Concept ;
+    rdfs:label "Dance"@en ;
+    skos:altLabel "1.3.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.3> ;
+    skos:prefLabel "Dance"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.3.4> a skos:Concept ;
+    rdfs:label "Theater"@en ;
+    skos:altLabel "1.3.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.3> ;
+    skos:prefLabel "Theater"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.3.5> a skos:Concept ;
+    rdfs:label "Film studies"@en ;
+    skos:altLabel "1.3.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.3> ;
+    skos:prefLabel "Film studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.3.6> a skos:Concept ;
+    rdfs:label "Photography"@en ;
+    skos:altLabel "1.3.6" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.3> ;
+    skos:prefLabel "Photography"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.3.7> a skos:Concept ;
+    rdfs:label "Music"@en ;
+    skos:altLabel "1.3.7" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.3> ;
+    skos:prefLabel "Music"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.3.8> a skos:Concept ;
+    rdfs:label "Design"@en ;
+    skos:altLabel "1.3.8" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.3> ;
+    skos:prefLabel "Design"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.3.9> a skos:Concept ;
+    rdfs:label "Mixed Media and Media Studies"@en ;
+    skos:altLabel "1.3.9" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.3> ;
+    skos:prefLabel "Mixed Media and Media Studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.4.1> a skos:Concept ;
+    rdfs:label "General and Applied Linguistics"@en ;
+    skos:altLabel "1.4.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.4> ;
+    skos:prefLabel "General and Applied Linguistics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.4.2> a skos:Concept ;
+    rdfs:label "Individual Linguistics"@en ;
+    skos:altLabel "1.4.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.4> ;
+    skos:prefLabel "Individual Linguistics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.4.3> a skos:Concept ;
+    rdfs:label "Non-European Languages,Historical Linguistics"@en ;
+    skos:altLabel "1.4.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.4> ;
+    skos:prefLabel "Non-European Languages,Historical Linguistics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.4.4> a skos:Concept ;
+    rdfs:label "Typology, Etymology, Morphology, Phonetics"@en ;
+    skos:altLabel "1.4.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.4> ;
+    skos:prefLabel "Typology, Etymology, Morphology, Phonetics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.5.1> a skos:Concept ;
+    rdfs:label "Medieval European Literature"@en ;
+    skos:altLabel "1.5.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.5> ;
+    skos:prefLabel "Medieval European Literature"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.5.2> a skos:Concept ;
+    rdfs:label "Modern European Literature"@en ;
+    skos:altLabel "1.5.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.5> ;
+    skos:prefLabel "Modern European Literature"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.5.3> a skos:Concept ;
+    rdfs:label "North American Literature"@en ;
+    skos:altLabel "1.5.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.5> ;
+    skos:prefLabel "North American Literature"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.5.4> a skos:Concept ;
+    rdfs:label "South American Literature"@en ;
+    skos:altLabel "1.5.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.5> ;
+    skos:prefLabel "South American Literature"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.5.5> a skos:Concept ;
+    rdfs:label "African Literature"@en ;
+    skos:altLabel "1.5.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.5> ;
+    skos:prefLabel "African Literature"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.5.6> a skos:Concept ;
+    rdfs:label "Asian Literature"@en ;
+    skos:altLabel "1.5.6" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.5> ;
+    skos:prefLabel "Asian Literature"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.5.7> a skos:Concept ;
+    rdfs:label "Australia/Oceania Literature"@en ;
+    skos:altLabel "1.5.7" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.5> ;
+    skos:prefLabel "Australia/Oceania Literature"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.5.8> a skos:Concept ;
+    rdfs:label "Literary Theory and Comparative Literature"@en ;
+    skos:altLabel "1.5.8" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.5> ;
+    skos:prefLabel "Literary Theory and Comparative Literature"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.5.9> a skos:Concept ;
+    rdfs:label "Poetry"@en ;
+    skos:altLabel "1.5.9" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.5> ;
+    skos:prefLabel "Poetry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.6.1> a skos:Concept ;
+    rdfs:label "Social and Cultural Anthropology and Ethnology/Folklore"@en ;
+    skos:altLabel "1.6.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.6> ;
+    skos:prefLabel "Social and Cultural Anthropology and Ethnology/Folklore"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.6.2> a skos:Concept ;
+    rdfs:label "Asian Studies"@en ;
+    skos:altLabel "1.6.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.6> ;
+    skos:prefLabel "Asian Studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.6.3> a skos:Concept ;
+    rdfs:label "African, American and Oceania Studies"@en ;
+    skos:altLabel "1.6.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.6> ;
+    skos:prefLabel "African, American and Oceania Studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.6.4> a skos:Concept ;
+    rdfs:label "Arabian Studies, Semitic Studies"@en ;
+    skos:altLabel "1.6.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.6> ;
+    skos:prefLabel "Arabian Studies, Semitic Studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.7.1> a skos:Concept ;
+    rdfs:label "Protestant Theology"@en ;
+    skos:altLabel "1.7.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.7> ;
+    skos:prefLabel "Protestant Theology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.7.2> a skos:Concept ;
+    rdfs:label "Roman Catholic Theology"@en ;
+    skos:altLabel "1.7.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.7> ;
+    skos:prefLabel "Roman Catholic Theology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.7.3> a skos:Concept ;
+    rdfs:label "Jewish Studies"@en ;
+    skos:altLabel "1.7.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.7> ;
+    skos:prefLabel "Jewish Studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.7.4> a skos:Concept ;
+    rdfs:label "Islam Studies"@en ;
+    skos:altLabel "1.7.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.7> ;
+    skos:prefLabel "Islam Studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.7.5> a skos:Concept ;
+    rdfs:label "Indian Religions"@en ;
+    skos:altLabel "1.7.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.7> ;
+    skos:prefLabel "Indian Religions"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.7.6> a skos:Concept ;
+    rdfs:label "East Asian Religions"@en ;
+    skos:altLabel "1.7.6" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.7> ;
+    skos:prefLabel "East Asian Religions"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.7.7> a skos:Concept ;
+    rdfs:label "Jewish Studies"@en ;
+    skos:altLabel "1.7.7" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.7> ;
+    skos:prefLabel "Jewish Studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.7.8> a skos:Concept ;
+    rdfs:label "Mythology"@en ;
+    skos:altLabel "1.7.8" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.7> ;
+    skos:prefLabel "Mythology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.8.1> a skos:Concept ;
+    rdfs:label "History of Philosophy"@en ;
+    skos:altLabel "1.8.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.8> ;
+    skos:prefLabel "History of Philosophy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.8.2> a skos:Concept ;
+    rdfs:label "Theoretical Philosophy"@en ;
+    skos:altLabel "1.8.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.8> ;
+    skos:prefLabel "Theoretical Philosophy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.8.3> a skos:Concept ;
+    rdfs:label "Practical Philosophy"@en ;
+    skos:altLabel "1.8.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1.8> ;
+    skos:prefLabel "Practical Philosophy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.1.1> a skos:Concept ;
+    rdfs:label "General Education and History of Education"@en ;
+    skos:altLabel "2.1.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.1> ;
+    skos:prefLabel "General Education and History of Education"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.1.2> a skos:Concept ;
+    rdfs:label "Research on Teaching, Learning and Training"@en ;
+    skos:altLabel "2.1.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.1> ;
+    skos:prefLabel "Research on Teaching, Learning and Training"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.1.3> a skos:Concept ;
+    rdfs:label "Research on Socialization and Educational Institutions and Professionsy"@en ;
+    skos:altLabel "2.1.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.1> ;
+    skos:prefLabel "Research on Socialization and Educational Institutions and Professionsy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.2.1> a skos:Concept ;
+    rdfs:label "General, Biological and Mathematical Psychology"@en ;
+    skos:altLabel "2.2.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.2> ;
+    skos:prefLabel "General, Biological and Mathematical Psychology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.2.2> a skos:Concept ;
+    rdfs:label "Developmental and Educational Psychology"@en ;
+    skos:altLabel "2.2.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.2> ;
+    skos:prefLabel "Developmental and Educational Psychology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.2.3> a skos:Concept ;
+    rdfs:label "Social Psychology, Industrial and Organisational Psychology"@en ;
+    skos:altLabel "2.2.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.2> ;
+    skos:prefLabel "Social Psychology, Industrial and Organisational Psychology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.2.4> a skos:Concept ;
+    rdfs:label "Differential Psychology, Clinical Psychology, Medical Psychology, Methodology"@en ;
+    skos:altLabel "2.2.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.2> ;
+    skos:prefLabel "Differential Psychology, Clinical Psychology, Medical Psychology, Methodology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.3.1> a skos:Concept ;
+    rdfs:label "Sociological Theory"@en ;
+    skos:altLabel "2.3.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.3> ;
+    skos:prefLabel "Sociological Theory"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.3.2> a skos:Concept ;
+    rdfs:label "Empirical Social Research"@en ;
+    skos:altLabel "2.3.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.3> ;
+    skos:prefLabel "Empirical Social Research"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.3.3> a skos:Concept ;
+    rdfs:label "Communication Science"@en ;
+    skos:altLabel "2.3.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.3> ;
+    skos:prefLabel "Communication Science"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.3.4> a skos:Concept ;
+    rdfs:label "Political Science"@en ;
+    skos:altLabel "2.3.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.3> ;
+    skos:prefLabel "Political Science"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.4.1> a skos:Concept ;
+    rdfs:label "Economic Theory"@en ;
+    skos:altLabel "2.4.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.4> ;
+    skos:prefLabel "Economic Theory"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.4.2> a skos:Concept ;
+    rdfs:label "Economic and Social Policy"@en ;
+    skos:altLabel "2.4.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.4> ;
+    skos:prefLabel "Economic and Social Policy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.4.3> a skos:Concept ;
+    rdfs:label "Public Finance"@en ;
+    skos:altLabel "2.4.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.4> ;
+    skos:prefLabel "Public Finance"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.4.4> a skos:Concept ;
+    rdfs:label "Business Administration"@en ;
+    skos:altLabel "2.4.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.4> ;
+    skos:prefLabel "Business Administration"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.4.5> a skos:Concept ;
+    rdfs:label "Statistics and Econometrics"@en ;
+    skos:altLabel "2.4.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.4> ;
+    skos:prefLabel "Statistics and Econometrics"@en ;
+	skos:inScheme <> .
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.4.6> a skos:Concept ;
+    rdfs:label "Economic and Social History"@en ;
+    skos:altLabel "2.4.6" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.4> ;
+    skos:prefLabel "Economic and Social History"@en ;
+	skos:inScheme <> .
+	
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.4.7> a skos:Concept ;
+    rdfs:label "Business and Management"@en ;
+    skos:altLabel "2.4.7" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.4> ;
+    skos:prefLabel "Business and Management"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.5.1> a skos:Concept ;
+    rdfs:label "Legal and Political Philosophy, Legal History, Legal Theory"@en ;
+    skos:altLabel "2.5.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.5> ;
+    skos:prefLabel "Legal and Political Philosophy, Legal History, Legal Theory"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.5.2> a skos:Concept ;
+    rdfs:label "Private Law"@en ;
+    skos:altLabel "2.5.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.5> ;
+    skos:prefLabel "Private Law"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.5.3> a skos:Concept ;
+    rdfs:label "Public Law"@en ;
+    skos:altLabel "2.5.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.5> ;
+    skos:prefLabel "Public Law"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.5.4> a skos:Concept ;
+    rdfs:label "Criminal Law and Law of Criminal Procedure"@en ;
+    skos:altLabel "2.5.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.5> ;
+    skos:prefLabel "Criminal Law and Law of Criminal Procedure"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.5.5> a skos:Concept ;
+    rdfs:label "Criminology"@en ;
+    skos:altLabel "2.5.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.5> ;
+    skos:prefLabel "Criminology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.5.6> a skos:Concept ;
+    rdfs:label "Law"@en ;
+    skos:altLabel "2.5.6" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2.5> ;
+    skos:prefLabel "Law"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1.01> a skos:Concept ;
+    rdfs:label "Biochemistry"@en ;
+    skos:altLabel "3.1.1.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1> ;
+    skos:prefLabel "Biochemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1.02> a skos:Concept ;
+    rdfs:label "Biophysics"@en ;
+    skos:altLabel "3.1.1.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1> ;
+    skos:prefLabel "Biophysics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1.03> a skos:Concept ;
+    rdfs:label "Cell Biology"@en ;
+    skos:altLabel "3.1.1.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1> ;
+    skos:prefLabel "Cell Biology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1.04> a skos:Concept ;
+    rdfs:label "Structural Biology"@en ;
+    skos:altLabel "3.1.1.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1> ;
+    skos:prefLabel "Structural Biology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1.05> a skos:Concept ;
+    rdfs:label "General Genetics"@en ;
+    skos:altLabel "3.1.1.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1> ;
+    skos:prefLabel "General Genetics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1.06> a skos:Concept ;
+    rdfs:label "Developmental Biology"@en ;
+    skos:altLabel "3.1.1.06" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1> ;
+    skos:prefLabel "Developmental Biology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1.07> a skos:Concept ;
+    rdfs:label "Bioinformatics and Theoretical Biology"@en ;
+    skos:altLabel "3.1.1.07" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1> ;
+    skos:prefLabel "Bioinformatics and Theoretical Biology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1.08> a skos:Concept ;
+    rdfs:label "Anatomy"@en ;
+    skos:altLabel "3.1.1.08" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1> ;
+    skos:prefLabel "Anatomy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1.09> a skos:Concept ;
+    rdfs:label "Omics"@en ;
+    skos:altLabel "3.1.1.09" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1> ;
+    skos:prefLabel "Omics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2.01> a skos:Concept ;
+    rdfs:label "Plant Systematics and Evolution"@en ;
+    skos:altLabel "3.1.2.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2> ;
+    skos:prefLabel "Plant Systematics and Evolution"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2.02> a skos:Concept ;
+    rdfs:label "Plant Ecology and Ecosystem Analysis"@en ;
+    skos:altLabel "3.1.2.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2> ;
+    skos:prefLabel "Plant Ecology and Ecosystem Analysis"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2.03> a skos:Concept ;
+    rdfs:label "Inter-organismic Interactions of Plants"@en ;
+    skos:altLabel "3.1.2.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2> ;
+    skos:prefLabel "Inter-organismic Interactions of Plants"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2.04> a skos:Concept ;
+    rdfs:label "Plant Physiology"@en ;
+    skos:altLabel "3.1.2.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2> ;
+    skos:prefLabel "Plant Physiology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2.05> a skos:Concept ;
+    rdfs:label "Plant Biochemistry and Biophysics"@en ;
+    skos:altLabel "3.1.2.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2> ;
+    skos:prefLabel "Plant Biochemistry and Biophysics"@en ;
+	skos:inScheme <> .
+	
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2.06> a skos:Concept ;
+    rdfs:label "Plant Cell and Developmental Biology"@en ;
+    skos:altLabel "3.1.2.06" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2> ;
+    skos:prefLabel "Plant Cell and Developmental Biology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2.07> a skos:Concept ;
+    rdfs:label "Plant Genetics"@en ;
+    skos:altLabel "3.1.2.07" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2> ;
+    skos:prefLabel "Plant Genetics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3.01> a skos:Concept ;
+    rdfs:label "Systematics and Morphology"@en ;
+    skos:altLabel "3.1.3.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3> ;
+    skos:prefLabel "Systematics and Morphology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3.02> a skos:Concept ;
+    rdfs:label "Evolution, Anthropology"@en ;
+    skos:altLabel "3.1.3.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3> ;
+    skos:prefLabel "Evolution, Anthropology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3.03> a skos:Concept ;
+    rdfs:label "Animal Ecology, Biodiversity and Ecosystem Research"@en ;
+    skos:altLabel "3.1.3.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3> ;
+    skos:prefLabel "Animal Ecology, Biodiversity and Ecosystem Research"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3.04> a skos:Concept ;
+    rdfs:label "Sensory and Behavioural Biology"@en ;
+    skos:altLabel "3.1.3.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3> ;
+    skos:prefLabel "Sensory and Behavioural Biology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3.05> a skos:Concept ;
+    rdfs:label "Biochemistry and Animal Physiology"@en ;
+    skos:altLabel "3.1.3.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3> ;
+    skos:prefLabel "Biochemistry and Animal Physiology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3.06> a skos:Concept ;
+    rdfs:label "Animal Genetics, Cell and Developmental Biology"@en ;
+    skos:altLabel "3.1.3.06" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3> ;
+    skos:prefLabel "Animal Genetics, Cell and Developmental Biology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.1.01> a skos:Concept ;
+    rdfs:label "Metabolism, Biochemistry and Genetics of Microorganisms"@en ;
+    skos:altLabel "3.2.1.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.1> ;
+    skos:prefLabel "Metabolism, Biochemistry and Genetics of Microorganisms"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.1.02> a skos:Concept ;
+    rdfs:label "Microbial Ecology and Applied Microbiology"@en ;
+    skos:altLabel "3.2.1.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.1> ;
+    skos:prefLabel "Microbial Ecology and Applied Microbiology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.1.03> a skos:Concept ;
+    rdfs:label "Medical Microbiology, Molecular Infection Biology"@en ;
+    skos:altLabel "3.2.1.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.1> ;
+    skos:prefLabel "Medical Microbiology, Molecular Infection Biology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.1.04> a skos:Concept ;
+    rdfs:label "Virology"@en ;
+    skos:altLabel "3.2.1.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.1> ;
+    skos:prefLabel "Virology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.1.05> a skos:Concept ;
+    rdfs:label "Immunology"@en ;
+    skos:altLabel "3.2.1.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.1> ;
+    skos:prefLabel "Immunology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.01> a skos:Concept ;
+    rdfs:label "Epidemiology, Medical Biometry, Medical Informatics"@en ;
+    skos:altLabel "3.2.2.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Epidemiology, Medical Biometry, Medical Informatics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.02> a skos:Concept ;
+    rdfs:label "Public Health, Health Services Research, Social Medicine"@en ;
+    skos:altLabel "3.2.2.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Public Health, Health Services Research, Social Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.03> a skos:Concept ;
+    rdfs:label "Human Genetics"@en ;
+    skos:altLabel "3.2.2.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Human Genetics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.04> a skos:Concept ;
+    rdfs:label "Physiology"@en ;
+    skos:altLabel "3.2.2.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Physiology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.05> a skos:Concept ;
+    rdfs:label "Nutritional Sciences"@en ;
+    skos:altLabel "3.2.2.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Nutritional Sciences"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.06> a skos:Concept ;
+    rdfs:label "Pathology and Forensic Medicine"@en ;
+    skos:altLabel "3.2.2.06" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Pathology and Forensic Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.07> a skos:Concept ;
+    rdfs:label "Clinical Chemistry and Pathobiochemistry"@en ;
+    skos:altLabel "3.2.2.07" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Clinical Chemistry and Pathobiochemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.08> a skos:Concept ;
+    rdfs:label "Pharmacy"@en ;
+    skos:altLabel "3.2.2.08" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Pharmacy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.09> a skos:Concept ;
+    rdfs:label "Pharmacology"@en ;
+    skos:altLabel "3.2.2.09" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Pharmacology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.10> a skos:Concept ;
+    rdfs:label "Toxicology and Occupational Medicine"@en ;
+    skos:altLabel "3.2.2.10" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Toxicology and Occupational Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.11> a skos:Concept ;
+    rdfs:label "Anaesthesiology"@en ;
+    skos:altLabel "3.2.2.11" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Anaesthesiology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.13> a skos:Concept ;
+    rdfs:label "Pneumology, Clinical Infectiology Intensive Care Medicine"@en ;
+    skos:altLabel "3.2.2.13" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Pneumology, Clinical Infectiology Intensive Care Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.14> a skos:Concept ;
+    rdfs:label "Hematology, Oncology, Transfusion Medicine"@en ;
+    skos:altLabel "3.2.2.14" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Hematology, Oncology, Transfusion Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.15> a skos:Concept ;
+    rdfs:label "Gastroenterology, Metabolism"@en ;
+    skos:altLabel "3.2.2.15" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Gastroenterology, Metabolism"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.16> a skos:Concept ;
+    rdfs:label "Nephrology"@en ;
+    skos:altLabel "3.2.2.16" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Nephrology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.18> a skos:Concept ;
+    rdfs:label "Rheumatology, Clinical Immunology, Allergology"@en ;
+    skos:altLabel "3.2.2.18" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Rheumatology, Clinical Immunology, Allergology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.19> a skos:Concept ;
+    rdfs:label "Dermatology"@en ;
+    skos:altLabel "3.2.2.19" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Dermatology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.20> a skos:Concept ;
+    rdfs:label "Pediatric and Adolescent Medicine"@en ;
+    skos:altLabel "3.2.2.20" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Pediatric and Adolescent Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.21> a skos:Concept ;
+    rdfs:label "Gynaecology and Obstetrics"@en ;
+    skos:altLabel "3.2.2.21" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Gynaecology and Obstetrics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.23> a skos:Concept ;
+    rdfs:label "Urology"@en ;
+    skos:altLabel "3.2.2.23" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Urology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.24> a skos:Concept ;
+    rdfs:label "Gerontology and Geriatric Medicine"@en ;
+    skos:altLabel "3.2.2.24" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Gerontology and Geriatric Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.25> a skos:Concept ;
+    rdfs:label "Vascular and Visceral Surgery"@en ;
+    skos:altLabel "3.2.2.25" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Vascular and Visceral Surgery"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.26> a skos:Concept ;
+    rdfs:label "Cardiothoracic Surgery"@en ;
+    skos:altLabel "3.2.2.26" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Cardiothoracic Surgery"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.28> a skos:Concept ;
+    rdfs:label "Dentistry, Oral Surgery"@en ;
+    skos:altLabel "3.2.2.28" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Dentistry, Oral Surgery"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.29> a skos:Concept ;
+    rdfs:label "Otolaryngology"@en ;
+    skos:altLabel "3.2.2.29" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Otolaryngology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.30> a skos:Concept ;
+    rdfs:label "Radiology and Nuclear Medicine"@en ;
+    skos:altLabel "3.2.2.30" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Radiology and Nuclear Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.31> a skos:Concept ;
+    rdfs:label "Radiation Oncology and Radiobiology"@en ;
+    skos:altLabel "3.2.2.31" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Radiation Oncology and Radiobiology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2.32> a skos:Concept ;
+    rdfs:label "Biomedical Technology and Medical Physics"@en ;
+    skos:altLabel "3.2.2.32" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Biomedical Technology and Medical Physics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.01> a skos:Concept ;
+    rdfs:label "Molecular Neuroscience and Neurogenetics"@en ;
+    skos:altLabel "3.2.3.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> ;
+    skos:prefLabel "Molecular Neuroscience and Neurogenetics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.02> a skos:Concept ;
+    rdfs:label "Cellular Neuroscience"@en ;
+    skos:altLabel "3.2.3.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> ;
+    skos:prefLabel "Cellular Neuroscience"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.03> a skos:Concept ;
+    rdfs:label "Developmental Neurobiology"@en ;
+    skos:altLabel "3.2.3.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> ;
+    skos:prefLabel "Developmental Neurobiology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.04> a skos:Concept ;
+    rdfs:label "Systemic Neuroscience, Computational Neuroscience, Behaviour"@en ;
+    skos:altLabel "3.2.3.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> ;
+    skos:prefLabel "Systemic Neuroscience, Computational Neuroscience, Behaviour"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.05> a skos:Concept ;
+    rdfs:label "Comparative Neurobiology"@en ;
+    skos:altLabel "3.2.3.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> ;
+    skos:prefLabel "Comparative Neurobiology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.06> a skos:Concept ;
+    rdfs:label "Cognitive Neuroscience and Neuroimaging"@en ;
+    skos:altLabel "3.2.3.06" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> ;
+    skos:prefLabel "Cognitive Neuroscience and Neuroimaging"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.07> a skos:Concept ;
+    rdfs:label "Molecular Neurology"@en ;
+    skos:altLabel "3.2.3.07" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> ;
+    skos:prefLabel "Molecular Neurology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.08> a skos:Concept ;
+    rdfs:label "Neurology, Neurosurgery"@en ;
+    skos:altLabel "3.2.3.08" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> ;
+    skos:prefLabel "Neurology, Neurosurgery"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.09> a skos:Concept ;
+    rdfs:label "Psychotherapy, Psychosomatic Medicine"@en ;
+    skos:altLabel "3.2.3.09" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> ;
+    skos:prefLabel "Psychotherapy, Psychosomatic Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.10> a skos:Concept ;
+    rdfs:label "Ophthalmology"@en ;
+    skos:altLabel "3.2.3.10" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> ;
+    skos:prefLabel "Ophthalmology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.11> a skos:Concept ;
+    rdfs:label "Biological Psychiatry"@en ;
+    skos:altLabel "3.2.3.11" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> ;
+    skos:prefLabel "Biological Psychiatry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.12> a skos:Concept ;
+    rdfs:label "Cardiology, Angiology"@en ;
+    skos:altLabel "3.2.3.12" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Cardiology, Angiology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.17> a skos:Concept ;
+    rdfs:label "Endocrinology, Diabetology"@en ;
+    skos:altLabel "3.2.3.17" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Endocrinology, Diabetology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.22> a skos:Concept ;
+    rdfs:label "Reproductive Medicine/Biology"@en ;
+    skos:altLabel "3.2.3.22" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Reproductive Medicine/Biology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3.27> a skos:Concept ;
+    rdfs:label "Traumatology and Orthopaedics"@en ;
+    skos:altLabel "3.2.3.27" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> ;
+    skos:prefLabel "Traumatology and Orthopaedics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.01> a skos:Concept ;
+    rdfs:label "Molecular Neuroscience and Neurogenetics"@en ;
+    skos:altLabel "3.3.1.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Molecular Neuroscience and Neurogenetics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.02> a skos:Concept ;
+    rdfs:label "Plant Cultivation"@en ;
+    skos:altLabel "3.3.1.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Plant Cultivation"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.03> a skos:Concept ;
+    rdfs:label "Plant Nutrition"@en ;
+    skos:altLabel "3.3.1.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Plant Nutrition"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.04> a skos:Concept ;
+    rdfs:label "Ecology of Agricultural Landscapes"@en ;
+    skos:altLabel "3.3.1.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Ecology of Agricultural Landscapes"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.05> a skos:Concept ;
+    rdfs:label "Plant Breeding"@en ;
+    skos:altLabel "3.3.1.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Plant Breeding"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.06> a skos:Concept ;
+    rdfs:label "Phytomedicine"@en ;
+    skos:altLabel "3.3.1.06" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Phytomedicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.07> a skos:Concept ;
+    rdfs:label "Agricultural and Food Process Engineering"@en ;
+    skos:altLabel "3.3.1.07" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Agricultural and Food Process Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.08> a skos:Concept ;
+    rdfs:label "Agricultural Economics and Sociology"@en ;
+    skos:altLabel "3.3.1.08" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Agricultural Economics and Sociology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.09> a skos:Concept ;
+    rdfs:label "Forestry"@en ;
+    skos:altLabel "3.3.1.09" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Forestry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.10> a skos:Concept ;
+    rdfs:label "Silviculture"@en ;
+    skos:altLabel "3.3.1.10" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Silviculture"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.11> a skos:Concept ;
+    rdfs:label "Agricultural Sciences"@en ;
+    skos:altLabel "3.3.1.11" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Agricultural Sciences"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.12> a skos:Concept ;
+    rdfs:label "Farming Systems"@en ;
+    skos:altLabel "3.3.1.12" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Farming Systems"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.13> a skos:Concept ;
+    rdfs:label "Aquaculture"@en ;
+    skos:altLabel "3.3.1.13" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Aquaculture"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1.14> a skos:Concept ;
+    rdfs:label "Food Safety"@en ;
+    skos:altLabel "3.3.1.14" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> ;
+    skos:prefLabel "Food Safety"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.2.01> a skos:Concept ;
+    rdfs:label "Animal Husbandry, Breeding and Hygiene"@en ;
+    skos:altLabel "3.3.2.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.2> ;
+    skos:prefLabel "Animal Husbandry, Breeding and Hygiene"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.2.02> a skos:Concept ;
+    rdfs:label "Animal Nutrition and Nutrition Physiology"@en ;
+    skos:altLabel "3.3.2.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.2> ;
+    skos:prefLabel "Animal Nutrition and Nutrition Physiology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.2.03> a skos:Concept ;
+    rdfs:label "Veterinary Medical Science"@en ;
+    skos:altLabel "3.3.2.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.2> ;
+    skos:prefLabel "Veterinary Medical Science"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.2.04> a skos:Concept ;
+    rdfs:label "Basic Research on Pathogenesis, Diagnostics and Therapy and Clinical Veterinary Medicine"@en ;
+    skos:altLabel "3.3.2.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3.2> ;
+    skos:prefLabel "Basic Research on Pathogenesis, Diagnostics and Therapy and Clinical Veterinary Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.1.01> a skos:Concept ;
+    rdfs:label "Inorganic Molecular Chemistry"@en ;
+    skos:altLabel "4.1.1.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.1> ;
+    skos:prefLabel "Inorganic Molecular Chemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.1.02> a skos:Concept ;
+    rdfs:label "Organic Molecular Chemistry"@en ;
+    skos:altLabel "4.1.1.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.1> ;
+    skos:prefLabel "Organic Molecular Chemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.2.01> a skos:Concept ;
+    rdfs:label "Physical Chemistry of Molecules, Interfaces and Liquids - Spectroscopy, Kinetics"@en,
+        "Solid State and Surface Chemistry, Material Synthesis"@en ;
+    skos:altLabel "4.1.2.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.2>,
+        <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.3> ;
+    skos:prefLabel "Physical Chemistry of Molecules, Interfaces and Liquids - Spectroscopy, Kinetics"@en,
+        "Solid State and Surface Chemistry, Material Synthesis"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.2.02> a skos:Concept ;
+    rdfs:label "General Theoretical Chemistry"@en,
+        "Physical Chemistry of Solids and Surfaces, Material Characterisation"@en ;
+    skos:altLabel "4.1.2.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.2>,
+        <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.3> ;
+    skos:prefLabel "General Theoretical Chemistry"@en,
+        "Physical Chemistry of Solids and Surfaces, Material Characterisation"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.2.03> a skos:Concept ;
+    rdfs:label "Theory and Modelling"@en ;
+    skos:altLabel "4.1.2.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.2> ;
+    skos:prefLabel "Theory and Modelling"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.4> a skos:Concept ;
+    rdfs:label "Analytical Chemistry, Method Development"@en ;
+    skos:altLabel "4.1.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1> ;
+    skos:prefLabel "Analytical Chemistry, Method Development"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.5.01> a skos:Concept ;
+    rdfs:label "Biological and Biomimetic Chemistry"@en ;
+    skos:altLabel "4.1.5.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.5> ;
+    skos:prefLabel "Biological and Biomimetic Chemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.5.02> a skos:Concept ;
+    rdfs:label "Food Chemistry"@en ;
+    skos:altLabel "4.1.5.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.5> ;
+    skos:prefLabel "Food Chemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.6.01> a skos:Concept ;
+    rdfs:label "Preparatory and Physical Chemistry of Polymers"@en ;
+    skos:altLabel "4.1.6.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.6> ;
+    skos:prefLabel "Preparatory and Physical Chemistry of Polymers"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.6.02> a skos:Concept ;
+    rdfs:label "Experimental and Theoretical Physics of Polymers"@en ;
+    skos:altLabel "4.1.6.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.6> ;
+    skos:prefLabel "Experimental and Theoretical Physics of Polymers"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.6.03> a skos:Concept ;
+    rdfs:label "Polymer Materials"@en ;
+    skos:altLabel "4.1.6.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1.6> ;
+    skos:prefLabel "Polymer Materials"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.1.01> a skos:Concept ;
+    rdfs:label "Experimental Condensed Matter Physics"@en ;
+    skos:altLabel "4.2.1.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.1> ;
+    skos:prefLabel "Experimental Condensed Matter Physics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.1.02> a skos:Concept ;
+    rdfs:label "Theoretical Condensed Matter Physics"@en ;
+    skos:altLabel "4.2.1.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.1> ;
+    skos:prefLabel "Theoretical Condensed Matter Physics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.2> a skos:Concept ;
+    rdfs:label "Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas"@en ;
+    skos:altLabel "4.2.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2> ;
+    skos:prefLabel "Optics, Quantum Optics and Physics of Atoms, Molecules and Plasmas"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.3> a skos:Concept ;
+    rdfs:label "Particles, Nuclei and Fields"@en ;
+    skos:altLabel "4.2.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2> ;
+    skos:prefLabel "Particles, Nuclei and Fields"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.4> a skos:Concept ;
+    rdfs:label "Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics"@en ;
+    skos:altLabel "4.2.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2> ;
+    skos:prefLabel "Statistical Physics, Soft Matter, Biological Physics, Nonlinear Dynamics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5.01> a skos:Concept ;
+    rdfs:label "Astrophysical Processes"@en ;
+    skos:altLabel "4.2.5.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> ;
+    skos:prefLabel "Astrophysical Processes"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5.02> a skos:Concept ;
+    rdfs:label "Cosmology"@en ;
+    skos:altLabel "4.2.5.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> ;
+    skos:prefLabel "Cosmology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5.03> a skos:Concept ;
+    rdfs:label "Exoplanet Astronomy"@en ;
+    skos:altLabel "4.2.5.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> ;
+    skos:prefLabel "Exoplanet Astronomy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5.04> a skos:Concept ;
+    rdfs:label "Galactic and extragalactic Astronomy"@en ;
+    skos:altLabel "4.2.5.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> ;
+    skos:prefLabel "Galactic and extragalactic Astronomy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5.05> a skos:Concept ;
+    rdfs:label "High Energy Astrophysics"@en ;
+    skos:altLabel "4.2.5.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> ;
+    skos:prefLabel "High Energy Astrophysics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5.06> a skos:Concept ;
+    rdfs:label "Interdisciplinary Astronomy"@en ;
+    skos:altLabel "4.2.5.06" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> ;
+    skos:prefLabel "Interdisciplinary Astronomy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5.07> a skos:Concept ;
+    rdfs:label "Interstellar medium"@en ;
+    skos:altLabel "4.2.5.07" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> ;
+    skos:prefLabel "Interstellar medium"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5.08> a skos:Concept ;
+    rdfs:label "Observational Astronomy"@en ;
+    skos:altLabel "4.2.5.08" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> ;
+    skos:prefLabel "Observational Astronomy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5.09> a skos:Concept ;
+    rdfs:label "Solar Physics"@en ;
+    skos:altLabel "4.2.5.09" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> ;
+    skos:prefLabel "Solar Physics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5.10> a skos:Concept ;
+    rdfs:label "Solar System Astronomy"@en ;
+    skos:altLabel "4.2.5.10" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> ;
+    skos:prefLabel "Solar System Astronomy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5.11> a skos:Concept ;
+    rdfs:label "Stellar Astronomy"@en ;
+    skos:altLabel "4.2.5.11" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> ;
+    skos:prefLabel "Stellar Astronomy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.6.01> a skos:Concept ;
+    rdfs:label "Physics of atmosphere and space plasmas"@en ;
+    skos:altLabel "4.2.6.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.6> ;
+    skos:prefLabel "Physics of atmosphere and space plasmas"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.6.02> a skos:Concept ;
+    rdfs:label "Magnetospheric physics"@en ;
+    skos:altLabel "4.2.6.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.6> ;
+    skos:prefLabel "Magnetospheric physics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.6.03> a skos:Concept ;
+    rdfs:label "Solar-terrestrial interaction, Space weather"@en ;
+    skos:altLabel "4.2.6.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.6> ;
+    skos:prefLabel "Solar-terrestrial interaction, Space weather"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.6.04> a skos:Concept ;
+    rdfs:label "Space debris and near-Earth objects"@en ;
+    skos:altLabel "4.2.6.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2.6> ;
+    skos:prefLabel "Space debris and near-Earth objects"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.3.1> a skos:Concept ;
+    rdfs:label "Approximation Theory"@en ;
+    skos:altLabel "4.3.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.3> ;
+    skos:prefLabel "Approximation Theory"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.3.2> a skos:Concept ;
+    rdfs:label "Numerical Analysis"@en ;
+    skos:altLabel "4.3.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.3> ;
+    skos:prefLabel "Numerical Analysis"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.3.3> a skos:Concept ;
+    rdfs:label "Dynamical Systems"@en ;
+    skos:altLabel "4.3.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.3> ;
+    skos:prefLabel "Dynamical Systems"@en ;
+	skos:inScheme <> .
+	
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.3.4> a skos:Concept ;
+    rdfs:label "Cryptography"@en ;
+    skos:altLabel "4.3.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.3> ;
+    skos:prefLabel "Cryptography"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.3.5> a skos:Concept ;
+    rdfs:label "Logic"@en ;
+    skos:altLabel "4.3.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.3> ;
+    skos:prefLabel "Logic"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1.01> a skos:Concept ;
+    rdfs:label "Meteorology"@en ;
+    skos:altLabel "4.4.1.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1> ;
+    skos:prefLabel "Meteorology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1.02> a skos:Concept ;
+    rdfs:label "Climatology"@en ;
+    skos:altLabel "4.4.1.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1> ;
+    skos:prefLabel "Climatology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1.03> a skos:Concept ;
+    rdfs:label "Atmospheric chemistry"@en ;
+    skos:altLabel "4.4.1.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1> ;
+    skos:prefLabel "Atmospheric chemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1.04> a skos:Concept ;
+    rdfs:label "Atmospheric physics"@en ;
+    skos:altLabel "4.4.1.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1> ;
+    skos:prefLabel "Atmospheric physics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1.05> a skos:Concept ;
+    rdfs:label "Aeronomy"@en ;
+    skos:altLabel "4.4.1.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1> ;
+    skos:prefLabel "Aeronomy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1.06> a skos:Concept ;
+    rdfs:label "Ionospheric physics"@en ;
+    skos:altLabel "4.4.1.06" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1> ;
+    skos:prefLabel "Ionospheric physics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2.01> a skos:Concept ;
+    rdfs:label "Biogeochemistry"@en ;
+    skos:altLabel "4.4.2.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2> ;
+    skos:prefLabel "Biogeochemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2.02> a skos:Concept ;
+    rdfs:label "Biogeography"@en ;
+    skos:altLabel "4.4.2.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2> ;
+    skos:prefLabel "Biogeography"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2.03> a skos:Concept ;
+    rdfs:label "Ecology"@en ;
+    skos:altLabel "4.4.2.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2> ;
+    skos:prefLabel "Ecology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2.04> a skos:Concept ;
+    rdfs:label "Geoarchaeology"@en ;
+    skos:altLabel "4.4.2.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2> ;
+    skos:prefLabel "Geoarchaeology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2.05> a skos:Concept ;
+    rdfs:label "Geomicrobiology"@en ;
+    skos:altLabel "4.4.2.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2> ;
+    skos:prefLabel "Geomicrobiology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2.06> a skos:Concept ;
+    rdfs:label "Paleontology"@en ;
+    skos:altLabel "4.4.2.06" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2> ;
+    skos:prefLabel "Paleontology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.3.01> a skos:Concept ;
+    rdfs:label "Hydrology and Hydrogeology"@en ;
+    skos:altLabel "4.4.3.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.3> ;
+    skos:prefLabel "Hydrology and Hydrogeology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.3.02> a skos:Concept ;
+    rdfs:label "Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management"@en ;
+    skos:altLabel "4.4.3.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.3> ;
+    skos:prefLabel "Limnology, Urban Water Management, Water Chemistry, Integrated Water Resources Management"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.4.01> a skos:Concept ;
+    rdfs:label "Physical Oceanography"@en ;
+    skos:altLabel "4.4.4.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.4> ;
+    skos:prefLabel "Physical Oceanography"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.4.02> a skos:Concept ;
+    rdfs:label "Chemical Oceanography"@en ;
+    skos:altLabel "4.4.4.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.4> ;
+    skos:prefLabel "Chemical Oceanography"@en ;
+	skos:inScheme <> .
+		
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.4.03> a skos:Concept ;
+    rdfs:label "Marine Biodiversity"@en ;
+    skos:altLabel "4.4.4.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.4> ;
+    skos:prefLabel "Marine Biodiversity"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5.01> a skos:Concept ;
+    rdfs:label "Geology"@en ;
+    skos:altLabel "4.4.5.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5> ;
+    skos:prefLabel "Geology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5.02> a skos:Concept ;
+    rdfs:label "Geography"@en ;
+    skos:altLabel "4.4.5.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5> ;
+    skos:prefLabel "Geography"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5.03> a skos:Concept ;
+    rdfs:label "Geochemistry/Mineralogy and Crystallography/Petrology"@en ;
+    skos:altLabel "4.4.5.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5> ;
+    skos:prefLabel "Geochemistry/Mineralogy and Crystallography/Petrology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5.04> a skos:Concept ;
+    rdfs:label "Geophysics/Seismology"@en ;
+    skos:altLabel "4.4.5.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5> ;
+    skos:prefLabel "Geophysics/Seismology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5.05> a skos:Concept ;
+    rdfs:label "Geodesy, Geoinformatics and Remote Sensing"@en ;
+    skos:altLabel "4.4.5.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5> ;
+    skos:prefLabel "Geodesy, Geoinformatics and Remote Sensing"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5.06> a skos:Concept ;
+    rdfs:label "Glaciology"@en ;
+    skos:altLabel "4.4.5.06" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5> ;
+    skos:prefLabel "Glaciology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5.07> a skos:Concept ;
+    rdfs:label "Volcanology"@en ;
+    skos:altLabel "4.4.5.07" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5> ;
+    skos:prefLabel "Volcanology"@en .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.6> a skos:Concept ;
+    rdfs:label "Earth System Research"@en ;
+    skos:altLabel "4.4.6" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4> ;
+    skos:prefLabel "Earth System Research"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.7.01> a skos:Concept ;
+    rdfs:label "Environmental Monitoring"@en ;
+    skos:altLabel "4.4.7.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.7> ;
+    skos:prefLabel "Environmental Monitoring"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.7.02> a skos:Concept ;
+    rdfs:label "Earth and Environmental Science"@en ;
+    skos:altLabel "4.4.7.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.7> ;
+    skos:prefLabel "Earth and Environmental Science"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.7.03> a skos:Concept ;
+    rdfs:label "Land Use"@en ;
+    skos:altLabel "4.4.7.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4.7> ;
+    skos:prefLabel "Land Use"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1.1.01> a skos:Concept ;
+    rdfs:label "Metal-Cutting Manufacturing Engineering"@en ;
+    skos:altLabel "5.1.1.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.1.1> ;
+    skos:prefLabel "Metal-Cutting Manufacturing Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1.1.02> a skos:Concept ;
+    rdfs:label "Primary Shaping and Reshaping Technology"@en ;
+    skos:altLabel "5.1.1.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.1.1> ;
+    skos:prefLabel "Primary Shaping and Reshaping Technology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1.1.03> a skos:Concept ;
+    rdfs:label "Micro-, Precision, Mounting, Joining, Separation Technology"@en ;
+    skos:altLabel "5.1.1.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.1.1> ;
+    skos:prefLabel "Micro-, Precision, Mounting, Joining, Separation Technology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1.1.04> a skos:Concept ;
+    rdfs:label "Plastics Engineering"@en ;
+    skos:altLabel "5.1.1.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.1.1> ;
+    skos:prefLabel "Plastics Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1.1.05> a skos:Concept ;
+    rdfs:label "Production Automation, Factory Operation, Operations Manangement"@en ;
+    skos:altLabel "5.1.1.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.1.1> ;
+    skos:prefLabel "Production Automation, Factory Operation, Operations Manangement"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1.2.01> a skos:Concept ;
+    rdfs:label "Construction, Machine Elements"@en ;
+    skos:altLabel "5.1.2.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.1.2> ;
+    skos:prefLabel "Construction, Machine Elements"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1.2.02> a skos:Concept ;
+    rdfs:label "Mechanics"@en ;
+    skos:altLabel "5.1.2.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.1.2> ;
+    skos:prefLabel "Mechanics"@en .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1.2.03> a skos:Concept ;
+    rdfs:label "Lightweight Construction, Textile Technology"@en ;
+    skos:altLabel "5.1.2.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.1.2> ;
+    skos:prefLabel "Lightweight Construction, Textile Technology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1.2.04> a skos:Concept ;
+    rdfs:label "Acoustics"@en ;
+    skos:altLabel "5.1.2.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.1.2> ;
+    skos:prefLabel "Acoustics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.2.1.01> a skos:Concept ;
+    rdfs:label "ChemistryChemical and Thermal Process Engineering"@en ;
+    skos:altLabel "5.2.1.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.2.1> ;
+    skos:prefLabel "ChemistryChemical and Thermal Process Engineering"@en .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.2.1.02> a skos:Concept ;
+    rdfs:label "Technical Chemistry"@en ;
+    skos:altLabel "5.2.1.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.2.1> ;
+    skos:prefLabel "Technical Chemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.2.1.03> a skos:Concept ;
+    rdfs:label "Mechanical Process Engineering"@en ;
+    skos:altLabel "5.2.1.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.2.1> ;
+    skos:prefLabel "Mechanical Process Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.2.1.04> a skos:Concept ;
+    rdfs:label "Biological Process Engineering"@en ;
+    skos:altLabel "5.2.1.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.2.1> ;
+    skos:prefLabel "Biological Process Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.2.2.01> a skos:Concept ;
+    rdfs:label "Energy Process Engineering"@en ;
+    skos:altLabel "5.2.2.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.2.2> ;
+    skos:prefLabel "Energy Process Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.2.2.02> a skos:Concept ;
+    rdfs:label "Technical Thermodynamics"@en ;
+    skos:altLabel "5.2.2.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.2.2> ;
+    skos:prefLabel "Technical Thermodynamics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.2.2.03> a skos:Concept ;
+    rdfs:label "Fluid Mechanicsy"@en ;
+    skos:altLabel "5.2.2.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.2.2> ;
+    skos:prefLabel "Fluid Mechanicsy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.2.2.04> a skos:Concept ;
+    rdfs:label "Hydraulic and Turbo Engines and Piston Engines"@en ;
+    skos:altLabel "5.2.2.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.2.2> ;
+    skos:prefLabel "Hydraulic and Turbo Engines and Piston Engines"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.1.01> a skos:Concept ;
+    rdfs:label "Metallurgical and Thermal Processes, Thermomechanical Treatment of Materials"@en ;
+    skos:altLabel "5.3.1.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3.1> ;
+    skos:prefLabel "Metallurgical and Thermal Processes, Thermomechanical Treatment of Materials"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.1.02> a skos:Concept ;
+    rdfs:label "Sintered Metallic and Ceramic Materials"@en ;
+    skos:altLabel "5.3.1.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3.1> ;
+    skos:prefLabel "Sintered Metallic and Ceramic Materials"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.1.03> a skos:Concept ;
+    rdfs:label "Composite Materials"@en ;
+    skos:altLabel "5.3.1.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3.1> ;
+    skos:prefLabel "Composite Materials"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.1.04> a skos:Concept ;
+    rdfs:label "Mechanical Behaviour of Construction Materials"@en ;
+    skos:altLabel "5.3.1.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3.1> ;
+    skos:prefLabel "Mechanical Behaviour of Construction Materials"@en .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.1.05> a skos:Concept ;
+    rdfs:label "Coating and Surface Technology"@en ;
+    skos:altLabel "5.3.1.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3.1> ;
+    skos:prefLabel "Coating and Surface Technology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.2.01> a skos:Concept ;
+    rdfs:label "Thermodynamics and Kinetics of Materials"@en ;
+    skos:altLabel "5.3.2.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3.2> ;
+    skos:prefLabel "Thermodynamics and Kinetics of Materials"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.2.02> a skos:Concept ;
+    rdfs:label "Synthesis and Properties of Functional Materials"@en ;
+    skos:altLabel "5.3.2.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3.2> ;
+    skos:prefLabel "Synthesis and Properties of Functional Materials"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.2.03> a skos:Concept ;
+    rdfs:label "Microstructural Mechanical Properties of Materials"@en ;
+    skos:altLabel "5.3.2.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3.2> ;
+    skos:prefLabel "Microstructural Mechanical Properties of Materials"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.2.04> a skos:Concept ;
+    rdfs:label "Structuring and Functionalisations"@en ;
+    skos:altLabel "5.3.2.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3.2> ;
+    skos:prefLabel "Structuring and Functionalisations"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.2.05> a skos:Concept ;
+    rdfs:label "Biomaterials"@en ;
+    skos:altLabel "5.3.2.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3.2> ;
+    skos:prefLabel "Biomaterials"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.1.01> a skos:Concept ;
+    rdfs:label "Automation, Control Systems, Robotics, Mechatronics"@en ;
+    skos:altLabel "5.4.1.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.1> ;
+    skos:prefLabel "Automation, Control Systems, Robotics, Mechatronics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.1.02> a skos:Concept ;
+    rdfs:label "Measurement Systems"@en ;
+    skos:altLabel "5.4.1.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.1> ;
+    skos:prefLabel "Measurement Systems"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.1.03> a skos:Concept ;
+    rdfs:label "Microsystems"@en ;
+    skos:altLabel "5.4.1.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.1> ;
+    skos:prefLabel "Microsystems"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.1.04> a skos:Concept ;
+    rdfs:label "Traffic and Transport Systems, Logistics"@en ;
+    skos:altLabel "5.4.1.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.1> ;
+    skos:prefLabel "Traffic and Transport Systems, Logistics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.1.05> a skos:Concept ;
+    rdfs:label "Human Factors, Ergonomics, Human-Machine Systems"@en ;
+    skos:altLabel "5.4.1.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.1> ;
+    skos:prefLabel "Human Factors, Ergonomics, Human-Machine Systems"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.2.01> a skos:Concept ;
+    rdfs:label "Electronic Semiconductors, Components, Circuits, Systems"@en ;
+    skos:altLabel "5.4.2.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.2> ;
+    skos:prefLabel "Electronic Semiconductors, Components, Circuits, Systems"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.2.02> a skos:Concept ;
+    rdfs:label "Communication, High-Frequency and Network Technology, Theoretical Electrical Engineering"@en ;
+    skos:altLabel "5.4.2.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.2> ;
+    skos:prefLabel "Communication, High-Frequency and Network Technology, Theoretical Electrical Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.2.03> a skos:Concept ;
+    rdfs:label "Electrical Energy Generation, Distribution, Application"@en ;
+    skos:altLabel "5.4.2.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.2> ;
+    skos:prefLabel "Electrical Energy Generation, Distribution, Application"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.2.04> a skos:Concept ;
+    rdfs:label "Radio Science and Radar Technology"@en ;
+    skos:altLabel "5.4.2.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.2> ;
+    skos:prefLabel "Radio Science and Radar Technology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3.01> a skos:Concept ;
+    rdfs:label "Theoretical Computer Science"@en ;
+    skos:altLabel "5.4.3.01" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3> ;
+    skos:prefLabel "Theoretical Computer Science"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3.02> a skos:Concept ;
+    rdfs:label "Software Technology"@en ;
+    skos:altLabel "5.4.3.02" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3> ;
+    skos:prefLabel "Software Technology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3.03> a skos:Concept ;
+    rdfs:label "Operating, Communication, Library and Information Systems"@en ;
+    skos:altLabel "5.4.3.03" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3> ;
+    skos:prefLabel "Operating, Communication, Library and Information Systems"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3.04> a skos:Concept ;
+    rdfs:label "Artificial Intelligence, Image and Language Processing"@en ;
+    skos:altLabel "5.4.3.04" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3> ;
+    skos:prefLabel "Artificial Intelligence, Image and Language Processing"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3.05> a skos:Concept ;
+    rdfs:label "Computer Architecture, Computer Engineering and Embedded Systems"@en ;
+    skos:altLabel "5.4.3.05" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3> ;
+    skos:prefLabel "Computer Architecture, Computer Engineering and Embedded Systems"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3.06> a skos:Concept ;
+    rdfs:label "Information Science"@en ;
+    skos:altLabel "5.4.3.06" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3> ;
+    skos:prefLabel "Information Science"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3.07> a skos:Concept ;
+    rdfs:label "Research Data Management"@en ;
+    skos:altLabel "5.4.3.07" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3> ;
+    skos:prefLabel "Research Data Management"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.5.1> a skos:Concept ;
+    rdfs:label "Architecture, Building and Construction History, Sustainable Building Technology, Building Design"@en ;
+    skos:altLabel "5.5.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.5> ;
+    skos:prefLabel "Architecture, Building and Construction History, Sustainable Building Technology, Building Design"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.5.2> a skos:Concept ;
+    rdfs:label "Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning"@en ;
+    skos:altLabel "5.5.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.5> ;
+    skos:prefLabel "Urbanism, Spatial Planning, Transportation and Infrastructure Planning, Landscape Planning"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.5.3> a skos:Concept ;
+    rdfs:label "Construction Material Sciences, Chemistry, Building Physics"@en ;
+    skos:altLabel "5.5.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.5> ;
+    skos:prefLabel "Construction Material Sciences, Chemistry, Building Physics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.5.4> a skos:Concept ;
+    rdfs:label "Structural Engineering, Building Informatics, Construction Operation"@en ;
+    skos:altLabel "5.5.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.5> ;
+    skos:prefLabel "Structural Engineering, Building Informatics, Construction Operation"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.5.5> a skos:Concept ;
+    rdfs:label "Applied Mechanics, Statics and Dynamics"@en ;
+    skos:altLabel "5.5.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.5> ;
+    skos:prefLabel "Applied Mechanics, Statics and Dynamics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.5.6> a skos:Concept ;
+    rdfs:label "Engineering"@en ;
+    skos:altLabel "5.5.6" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.5> ;
+    skos:prefLabel "Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3> a skos:Concept ;
+    rdfs:label "Agriculture, Forestry, Horticulture and Veterinary Medicine"@en ;
+    skos:altLabel "3.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3> ;
+    skos:prefLabel "Agriculture, Forestry, Horticulture and Veterinary Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.1> a skos:Concept ;
+    rdfs:label "Molecular Chemistry"@en ;
+    skos:altLabel "4.1.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1> ;
+    skos:prefLabel "Molecular Chemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.3> a skos:Concept ;
+    rdfs:label "Physical and Theoretical Chemistry"@en ;
+    skos:altLabel "4.1.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1> ;
+    skos:prefLabel "Physical and Theoretical Chemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.5> a skos:Concept ;
+    rdfs:label "Biological Chemistry and Food Chemistry"@en ;
+    skos:altLabel "4.1.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1> ;
+    skos:prefLabel "Biological Chemistry and Food Chemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.1> a skos:Concept ;
+    rdfs:label "Condensed Matter Physics"@en ;
+    skos:altLabel "4.2.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2> ;
+    skos:prefLabel "Condensed Matter Physics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.3> a skos:Concept ;
+    rdfs:label "Hydrospheric Sciences"@en ;
+    skos:altLabel "4.4.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4> ;
+    skos:prefLabel "Hydrospheric Sciences"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.4> a skos:Concept ;
+    rdfs:label "Oceanography/Marine Science"@en ;
+    skos:altLabel "4.4.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4> ;
+    skos:prefLabel "Oceanography/Marine Science"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1> a skos:Concept ;
+    rdfs:label "Mechanical and industrial Engineering"@en ;
+    skos:altLabel "5.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5> ;
+    skos:prefLabel "Mechanical and industrial Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.2> a skos:Concept ;
+    rdfs:label "Thermal Engineering/Process Engineering"@en ;
+    skos:altLabel "5.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5> ;
+    skos:prefLabel "Thermal Engineering/Process Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3> a skos:Concept ;
+    rdfs:label "Materials Science and Engineering"@en ;
+    skos:altLabel "5.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5> ;
+    skos:prefLabel "Materials Science and Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.8> a skos:Concept ;
+    rdfs:label "Philosophy"@en ;
+    skos:altLabel "1.8" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1> ;
+    skos:prefLabel "Philosophy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.1> a skos:Concept ;
+    rdfs:label "Education Sciences"@en ;
+    skos:altLabel "2.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2> ;
+    skos:prefLabel "Education Sciences"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3> a skos:Concept ;
+    rdfs:label "Life Sciences"@en ;
+    skos:altLabel "3" ;
+    skos:prefLabel "Life Sciences"@en ;
+    skos:topConceptOf <> ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1> a skos:Concept ;
+    rdfs:label "Biology"@en ;
+    skos:altLabel "3.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3> ;
+    skos:prefLabel "Biology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2> a skos:Concept ;
+    rdfs:label "Medicine"@en ;
+    skos:altLabel "3.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3> ;
+    skos:prefLabel "Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4> a skos:Concept ;
+    rdfs:label "Natural Sciences"@en ;
+    skos:altLabel "4" ;
+    skos:prefLabel "Natural Sciences"@en ;
+    skos:topConceptOf <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.2> a skos:Concept ;
+    rdfs:label "Chemical Solid State and Surface Research"@en ;
+    skos:altLabel "4.1.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1> ;
+    skos:prefLabel "Chemical Solid State and Surface Research"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1.6> a skos:Concept ;
+    rdfs:label "Polymer Research"@en ;
+    skos:altLabel "4.1.6" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.1> ;
+    skos:prefLabel "Polymer Research"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.7> a skos:Concept ;
+    rdfs:label "Environmental Research"@en ;
+    skos:altLabel "4.4.7" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4> ;
+    skos:prefLabel "Environmental Research"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4> a skos:Concept ;
+    rdfs:label "Computer Science, Electrical and System Engineering"@en ;
+    skos:altLabel "5.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5> ;
+    skos:prefLabel "Computer Science, Electrical and System Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.4> a skos:Concept ;
+    rdfs:label "Linguistics"@en ;
+    skos:altLabel "1.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1> ;
+    skos:prefLabel "Linguistics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.6> a skos:Concept ;
+    rdfs:label "Social and Cultural Anthropology"@en ;
+    skos:altLabel "1.6" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1> ;
+    skos:prefLabel "Social and Cultural Anthropology"@en .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.2> a skos:Concept ;
+    rdfs:label "Psychology"@en ;
+    skos:altLabel "2.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2> ;
+    skos:prefLabel "Psychology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.3> a skos:Concept ;
+    rdfs:label "Social Sciences"@en ;
+    skos:altLabel "2.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2> ;
+    skos:prefLabel "Social Sciences"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.2> a skos:Concept ;
+    rdfs:label "Veterinary Medicine"@en ;
+    skos:altLabel "3.3.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3> ;
+    skos:prefLabel "Veterinary Medicine"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.6> a skos:Concept ;
+    rdfs:label "Space Physics"@en ;
+    skos:altLabel "4.2.6" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2> ;
+    skos:prefLabel "Space Physics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1.2> a skos:Concept ;
+    rdfs:label "Mechanics and Constructive Mechanical Engineering"@en ;
+    skos:altLabel "5.1.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.1> ;
+    skos:prefLabel "Mechanics and Constructive Mechanical Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.2.1> a skos:Concept ;
+    rdfs:label "Process Engineering, Technical Chemistry"@en ;
+    skos:altLabel "5.2.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.2> ;
+    skos:prefLabel "Process Engineering, Technical Chemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.2.2> a skos:Concept ;
+    rdfs:label "Heat Energy Technology, Thermal Machines, Fluid Mechanics"@en ;
+    skos:altLabel "5.2.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.2> ;
+    skos:prefLabel "Heat Energy Technology, Thermal Machines, Fluid Mechanics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.2> a skos:Concept ;
+    rdfs:label "Electrical Engineering"@en ;
+    skos:altLabel "5.4.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4> ;
+    skos:prefLabel "Electrical Engineering"@en ;
+	skos:inScheme <> .
+
+<> a skos:ConceptScheme ;
+    dc:creator <https://orcid.org/0000-0003-4325-5751> ;
+    dc:rights <https://creativecommons.org/licenses/by-sa/4.0/> ;
+    skos:prefLabel "B2Find Academic Discipline Knowledge Graph"@en ;
+	skos:hasTopConcept <http://www.hu-berlin.de/ontologies/v1/eudat#1>, <http://www.hu-berlin.de/ontologies/v1/eudat#2>, <http://www.hu-berlin.de/ontologies/v1/eudat#3>, <http://www.hu-berlin.de/ontologies/v1/eudat#4>, <http://www.hu-berlin.de/ontologies/v1/eudat#5> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.2> a skos:Concept ;
+    rdfs:label "History"@en ;
+    skos:altLabel "1.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1> ;
+    skos:prefLabel "History"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2> a skos:Concept ;
+    rdfs:label "Social and Behavioural Sciences"@en ;
+    skos:altLabel "2" ;
+    skos:prefLabel "Social and Behavioural Sciences"@en ;
+    skos:topConceptOf <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.1> a skos:Concept ;
+    rdfs:label "Microbiology, Virology and Immunology"@en ;
+    skos:altLabel "3.2.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2> ;
+    skos:prefLabel "Microbiology, Virology and Immunology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5> a skos:Concept ;
+    rdfs:label "Engineering Science"@en ;
+    skos:altLabel "5" ;
+    skos:prefLabel "Engineering Science"@en ;
+    skos:topConceptOf <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.1.1> a skos:Concept ;
+    rdfs:label "Production Technology"@en ;
+    skos:altLabel "5.1.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.1> ;
+    skos:prefLabel "Production Technology"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.1> a skos:Concept ;
+    rdfs:label "Materials Engineering"@en ;
+    skos:altLabel "5.3.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3> ;
+    skos:prefLabel "Materials Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.3.2> a skos:Concept ;
+    rdfs:label "Materials Science"@en ;
+    skos:altLabel "5.3.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.3> ;
+    skos:prefLabel "Materials Science"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.1> a skos:Concept ;
+    rdfs:label "Systems Engineering"@en ;
+    skos:altLabel "5.4.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4> ;
+    skos:prefLabel "Systems Engineering"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.1> a skos:Concept ;
+    rdfs:label "Ancient Cultures"@en ;
+    skos:altLabel "1.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1> ;
+    skos:prefLabel "Ancient Cultures"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.5> a skos:Concept ;
+    rdfs:label "Jurisprudence"@en ;
+    skos:altLabel "2.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2> ;
+    skos:prefLabel "Jurisprudence"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.3> a skos:Concept ;
+    rdfs:label "Zoology"@en ;
+    skos:altLabel "3.1.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1> ;
+    skos:prefLabel "Zoology"@en .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.1> a skos:Concept ;
+    rdfs:label "Chemistry"@en ;
+    skos:altLabel "4.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4> ;
+    skos:prefLabel "Chemistry"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2> a skos:Concept ;
+    rdfs:label "Physics"@en ;
+    skos:altLabel "4.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4> ;
+    skos:prefLabel "Physics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.3> a skos:Concept ;
+    rdfs:label "Mathematics"@en ;
+    skos:altLabel "4.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4> ;
+    skos:prefLabel "Mathematics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.1> a skos:Concept ;
+    rdfs:label "Atmospheric Sciences"@en ;
+    skos:altLabel "4.4.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4> ;
+    skos:prefLabel "Atmospheric Sciences"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.2> a skos:Concept ;
+    rdfs:label "Biospheric Sciences"@en ;
+    skos:altLabel "4.4.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4> ;
+    skos:prefLabel "Biospheric Sciences"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.5> a skos:Concept ;
+    rdfs:label "Construction Engineering and Architecture"@en ;
+    skos:altLabel "5.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5> ;
+    skos:prefLabel "Construction Engineering and Architecture"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#2.4> a skos:Concept ;
+    rdfs:label "Economics"@en ;
+    skos:altLabel "2.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#2> ;
+    skos:prefLabel "Economics"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.2> a skos:Concept ;
+    rdfs:label "Plant Sciences"@en ;
+    skos:altLabel "3.1.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1> ;
+    skos:prefLabel "Plant Sciences"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4> a skos:Concept ;
+    rdfs:label "Geosciences"@en ;
+    skos:altLabel "4.4" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.3> ;
+    skos:prefLabel "Geosciences"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.4.5> a skos:Concept ;
+    rdfs:label "Geospheric Sciences"@en ;
+    skos:altLabel "4.4.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.4> ;
+    skos:prefLabel "Geospheric Sciences"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#5.4.3> a skos:Concept ;
+    rdfs:label "Computer Science"@en ;
+    skos:altLabel "5.4.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#5.4> ;
+    skos:prefLabel "Computer Science"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1> a skos:Concept ;
+    rdfs:label "Humanities"@en ;
+    skos:altLabel "1" ;
+    skos:prefLabel "Humanities"@en ;
+    skos:topConceptOf <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.7> a skos:Concept ;
+    rdfs:label "Theology and Religion Studies"@en ;
+    skos:altLabel "1.7" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1> ;
+    skos:prefLabel "Theology and Religion Studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.3> a skos:Concept ;
+    rdfs:label "Fine Arts, Music, Theatre and Media Studies"@en ;
+    skos:altLabel "1.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1> ;
+    skos:prefLabel "Fine Arts, Music, Theatre and Media Studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#1.5> a skos:Concept ;
+    rdfs:label "Literary Studies"@en ;
+    skos:altLabel "1.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#1> ;
+    skos:prefLabel "Literary Studies"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.1.1> a skos:Concept ;
+    rdfs:label "Basic Biological and Medical Research"@en ;
+    skos:altLabel "3.1.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.1> ;
+    skos:prefLabel "Basic Biological and Medical Research"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.3> a skos:Concept ;
+    rdfs:label "Neurosciences"@en ;
+    skos:altLabel "3.2.3" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2> ;
+    skos:prefLabel "Neurosciences"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#4.2.5> a skos:Concept ;
+    rdfs:label "Astrophysics and Astronomy"@en ;
+    skos:altLabel "4.2.5" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#4.2> ;
+    skos:prefLabel "Astrophysics and Astronomy"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.3.1> a skos:Concept ;
+    rdfs:label "Agriculture, Forestry, Horticulture"@en ;
+    skos:altLabel "3.3.1" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.3> ;
+    skos:prefLabel "Agriculture, Forestry, Horticulture"@en ;
+	skos:inScheme <> .
+
+<http://www.hu-berlin.de/ontologies/v1/eudat#3.2.2> a skos:Concept ;
+    rdfs:label "Medicine"@en ;
+    skos:altLabel "3.2.2" ;
+    skos:broader <http://www.hu-berlin.de/ontologies/v1/eudat#3.2> ;
+    skos:prefLabel "Medicine"@en ;
+	skos:inScheme <> .
+
