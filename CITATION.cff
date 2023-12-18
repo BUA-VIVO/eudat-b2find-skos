@@ -19,6 +19,9 @@ keywords:
   - Vocabulary
   - SKOS
 license: CC0-1.0
+identifiers:
+  - type: DOI
+    value: 10.5281/zenodo.10401091
 version: '1.0.0'
 commit: https://github.com/BUA-VIVO/eudat-b2find-skos/tree/v1.0.0
 date-released: '2023-11-06'
